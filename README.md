@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ClarenceLaria
-- 👀 I’m interested in Android Technology, Cyber Security and Tech development
+- 👀 I’m interested in Web Technology, Cyber Security and anything that involves Tech development
 - 🌱 I’m currently learning Android Kotlin
 - 💞️ I’m looking to collaborate on any project that involves making this world a better place
 - 📫 How to reach me
